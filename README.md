@@ -1,6 +1,6 @@
 Hi, I'm Meena 👋
 
-I'm a beginner programmer learning and exploring GitHub.  
+I'm a self learned programmer learning and exploring GitHub.  
 I love experimenting with new technologies and building small projects to improve my skills.  
 
 💻 Currently learning: Python, Java, Web Development  
